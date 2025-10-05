@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Veritas Automate</title>
+</head>
+<body>
+  <h1>Welcome to Veritas Automate</h1>
+  <p>
+    This is a free directory of home and industrial automation companies in India.
+    Over time, you will find technical details, resources, and city-wise company listings here.
+  </p>
+
+  <h2>Sample Companies</h2>
+  <ul>
+    <li><strong>Apex Automation Solutions</strong> — Bengaluru, Karnataka</li>
+    <li><strong>Delta Controls India</strong> — Pune, Maharashtra</li>
+  </ul>
+
+  <p>
+    (More companies coming soon!)
+  </p>
+</body>
+</html>

@@ -1,0 +1,16 @@
+[
+  {
+    "CompanyName": "Apex Automation Solutions",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "Services": "Home Automation, Industrial Automation",
+    "Contact": "info@apexautomation.in"
+  },
+  {
+    "CompanyName": "Delta Controls India",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "Services": "Industrial Automation, SCADA",
+    "Contact": "sales@deltacontrols.in"
+  }
+]
